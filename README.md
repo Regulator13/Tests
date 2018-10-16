@@ -44,4 +44,4 @@ This is a test of editing the readme file
 - p
 - p
 - p
-## [Section]
+## Section
